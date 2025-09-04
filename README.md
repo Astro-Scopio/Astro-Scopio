@@ -7,6 +7,10 @@ Sou familiarizado com computadores dês de pequeno e pretendo desenvolver mais a
 
 Minha área de interesse é cybersecurity. Toda ajuda nesse caminho será muito bem vinda!
 
+Também estou no LinkedIn 👉 [[www.linkedin.com/in/jackson-gabriel-088865271]]
+
+
+
 <!--
 **Astro-Scopio/Astro-Scopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
