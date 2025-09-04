@@ -7,8 +7,8 @@ Sou familiarizado com computadores dês de pequeno e pretendo desenvolver mais a
 
 Minha área de interesse é cybersecurity. Toda ajuda nesse caminho será muito bem vinda!
 
-Também estou no LinkedIn 👉 [[www.linkedin.com/in/jackson-gabriel-088865271]]
-
+👉 Também estou no LinkedIn: [www.linkedin.com/in/jackson-gabriel-088865271]
+👉 Meu GitHub: [https://github.com/Astro-Scopio]
 
 
 <!--
